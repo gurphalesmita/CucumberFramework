@@ -12,8 +12,8 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class AlertHandling {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		
+		System.out.println("Changes done Prajakta");
+		System.out.println("hello");
 		
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver = new ChromeDriver();		
