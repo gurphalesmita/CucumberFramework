@@ -29,7 +29,7 @@ public class WebTable {
         String lname = scan.next();
         
         String name = fname+" "+lname;
-        
+        System.out.println("hi");
         String xpath = "";
         
         for(int i=5;i<=24;i++)
